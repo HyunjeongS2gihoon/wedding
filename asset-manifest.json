@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.fc026a1e.css",
-    "main.js": "/wedding/static/js/main.1dccf73f.js",
+    "main.css": "/wedding/static/css/main.b14eee7f.css",
+    "main.js": "/wedding/static/js/main.6e5143fe.js",
+    "static/js/860.e4b20103.chunk.js": "/wedding/static/js/860.e4b20103.chunk.js",
     "static/js/488.646c7205.chunk.js": "/wedding/static/js/488.646c7205.chunk.js",
     "static/media/KoPubWorld Batang Light.ttf": "/wedding/static/media/KoPubWorld Batang Light.50e7a383409468c48b27.ttf",
     "static/media/KoPubWorld Batang Bold.ttf": "/wedding/static/media/KoPubWorld Batang Bold.13e1ea55564666c5a978.ttf",
     "static/media/KoPubWorld Batang Medium.ttf": "/wedding/static/media/KoPubWorld Batang Medium.0282e6e15da8a98240ee.ttf",
+    "static/media/Happening.mp3": "/wedding/static/media/Happening.05c610b66964dc11c397.mp3",
     "static/media/IMG_2753.JPG": "/wedding/static/media/IMG_2753.d7281ab946cdc9e71058.JPG",
     "static/media/arrow-left.svg": "/wedding/static/media/arrow-left.76285d5f93b86eea4aae6a9590a2b866.svg",
     "static/media/arrow-right.svg": "/wedding/static/media/arrow-right.c839f6e05c5514f4b2c731171a3aed54.svg",
     "index.html": "/wedding/index.html",
-    "main.fc026a1e.css.map": "/wedding/static/css/main.fc026a1e.css.map",
-    "main.1dccf73f.js.map": "/wedding/static/js/main.1dccf73f.js.map",
+    "main.b14eee7f.css.map": "/wedding/static/css/main.b14eee7f.css.map",
+    "main.6e5143fe.js.map": "/wedding/static/js/main.6e5143fe.js.map",
+    "860.e4b20103.chunk.js.map": "/wedding/static/js/860.e4b20103.chunk.js.map",
     "488.646c7205.chunk.js.map": "/wedding/static/js/488.646c7205.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc026a1e.css",
-    "static/js/main.1dccf73f.js"
+    "static/css/main.b14eee7f.css",
+    "static/js/main.6e5143fe.js"
   ]
 }
