@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.4fa6a8f6.css",
-    "main.js": "/wedding/static/js/main.f13861ac.js",
+    "main.css": "/wedding/static/css/main.af198b90.css",
+    "main.js": "/wedding/static/js/main.64b123f8.js",
     "static/js/860.e4b20103.chunk.js": "/wedding/static/js/860.e4b20103.chunk.js",
     "static/js/488.646c7205.chunk.js": "/wedding/static/js/488.646c7205.chunk.js",
     "static/media/KoPubWorld Batang Light.ttf": "/wedding/static/media/KoPubWorld Batang Light.50e7a383409468c48b27.ttf",
@@ -12,13 +12,13 @@
     "static/media/arrow-left.svg": "/wedding/static/media/arrow-left.76285d5f93b86eea4aae6a9590a2b866.svg",
     "static/media/arrow-right.svg": "/wedding/static/media/arrow-right.c839f6e05c5514f4b2c731171a3aed54.svg",
     "index.html": "/wedding/index.html",
-    "main.4fa6a8f6.css.map": "/wedding/static/css/main.4fa6a8f6.css.map",
-    "main.f13861ac.js.map": "/wedding/static/js/main.f13861ac.js.map",
+    "main.af198b90.css.map": "/wedding/static/css/main.af198b90.css.map",
+    "main.64b123f8.js.map": "/wedding/static/js/main.64b123f8.js.map",
     "860.e4b20103.chunk.js.map": "/wedding/static/js/860.e4b20103.chunk.js.map",
     "488.646c7205.chunk.js.map": "/wedding/static/js/488.646c7205.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fa6a8f6.css",
-    "static/js/main.f13861ac.js"
+    "static/css/main.af198b90.css",
+    "static/js/main.64b123f8.js"
   ]
 }
