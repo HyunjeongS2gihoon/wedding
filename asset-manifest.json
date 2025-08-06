@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.9a9c5014.css",
-    "main.js": "/wedding/static/js/main.323faf49.js",
+    "main.css": "/wedding/static/css/main.b2898220.css",
+    "main.js": "/wedding/static/js/main.1c8a583c.js",
     "static/js/488.9738abd2.chunk.js": "/wedding/static/js/488.9738abd2.chunk.js",
     "static/media/KoPubWorld Batang Light.ttf": "/wedding/static/media/KoPubWorld Batang Light.50e7a383409468c48b27.ttf",
     "static/media/KoPubWorld Batang Bold.ttf": "/wedding/static/media/KoPubWorld Batang Bold.13e1ea55564666c5a978.ttf",
@@ -9,7 +9,7 @@
     "static/media/Happening.mp3": "/wedding/static/media/Happening.05c610b66964dc11c397.mp3",
     "static/media/dining.png": "/wedding/static/media/dining.0dfb11731ee9cf8256bb.png",
     "static/media/photobooth.png": "/wedding/static/media/photobooth.ce924135e7ccda8f1009.png",
-    "static/media/weddingillust.png": "/wedding/static/media/weddingillust.e8a2c316e69ddd20d741.png",
+    "static/media/mainimage.jpg": "/wedding/static/media/mainimage.aa781eb3fb00a57117b0.jpg",
     "static/media/naver.webp": "/wedding/static/media/naver.7717483eebafa7435918.webp",
     "static/media/kakaopay2.svg": "/wedding/static/media/kakaopay2.cb7136c826bf5bf5d3863b20a9cb2629.svg",
     "static/media/tmap2.webp": "/wedding/static/media/tmap2.b163ac38347fed45ba53.webp",
@@ -18,12 +18,12 @@
     "static/media/tmap.svg": "/wedding/static/media/tmap.33c151143fd458a08559f207ec03a7fb.svg",
     "static/media/arrow-left.svg": "/wedding/static/media/arrow-left.76285d5f93b86eea4aae6a9590a2b866.svg",
     "static/media/arrow-right.svg": "/wedding/static/media/arrow-right.c839f6e05c5514f4b2c731171a3aed54.svg",
-    "main.9a9c5014.css.map": "/wedding/static/css/main.9a9c5014.css.map",
-    "main.323faf49.js.map": "/wedding/static/js/main.323faf49.js.map",
+    "main.b2898220.css.map": "/wedding/static/css/main.b2898220.css.map",
+    "main.1c8a583c.js.map": "/wedding/static/js/main.1c8a583c.js.map",
     "488.9738abd2.chunk.js.map": "/wedding/static/js/488.9738abd2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a9c5014.css",
-    "static/js/main.323faf49.js"
+    "static/css/main.b2898220.css",
+    "static/js/main.1c8a583c.js"
   ]
 }
